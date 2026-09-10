@@ -81,4 +81,4 @@ When the player equips a weapon, the HUD selects the crosshair that matches that
 
 ### In Game Preview
 
-(Img/8.png)
+![In Game Preview](Img/8.png)
