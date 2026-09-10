@@ -38,10 +38,6 @@ file/
 
 `Show only necessary hud.cs` is a compiled CLEO script included in the project to provide a simple weapon-change notification. Its purpose is to show only the necessary weapon information without keeping the weapon image permanently visible on the screen.
 
-### Work attribution
-
-I worked only on `HUD/OUSSFAB.HUD` and `cleo/Show only necessary hud.cs`. The other tools and project components were not created by me, and I do not know who created them.
-
 ## HUD Components: `HUD.asi` and `LUA.DLL`
 
 `HUD.asi` and `LUA.DLL` are the main components responsible for applying the custom HUD changes in the game. Together with the files in the `HUD/` directory, they modify the position and appearance of several SA-MP interface elements.
@@ -86,3 +82,7 @@ When the player equips a weapon, the HUD selects the crosshair that matches that
 ### In Game Preview
 
 ![In Game Preview](Img/8.png)
+
+### Work attribution
+
+I worked only on `HUD/OUSSFAB.HUD` and `cleo/Show only necessary hud.cs`. The other tools and project components were not created by me, and I do not know who created them.
