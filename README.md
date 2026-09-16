@@ -18,7 +18,8 @@ file/
 ├── cleo
 │   └── Show only necessary hud.cs
 ├── HUD.asi
-└── LUA.DLL
+├── LUA.DLL
+└── radarrect.asi
 
 ```
 
